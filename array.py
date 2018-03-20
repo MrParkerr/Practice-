@@ -1,8 +1,12 @@
 #!/usr/bin/env python3
+# array.py
 
 keki = [ "Senos", "Mebel", "Sanos", "Taimir" ]
 
 print ( "Cписок кеков:" )
 for pots in keki:
-    print ( pots )
+    if pots == "Senos":
+        print ( "Главный кек: " + pots )
+    else:
+        print ( pots )
 
