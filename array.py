@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # array.py
 
-keki = [ "Senos", "Mebel", "Sanos", "Taimir" ]
+keki = [ "Senos", "Mebel", "Sanos", "Taimir", "Boikich" ]
 
 print ( "Cписок кеков:" )
 for pots in keki:
